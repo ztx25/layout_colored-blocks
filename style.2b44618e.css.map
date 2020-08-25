@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,EACE,QACF,CAEA,KACE,cACF,CAEA,OACE,gBACF,CAEA,MACE,eACF,CAEA,gBACE,YACF","file":"style.2b44618e.css","sourceRoot":"..\\src","sourcesContent":["* {\n  margin: 0;\n}\n\n.red {\n  background: red;\n}\n\n.green {\n  background: green;\n}\n\n.blue {\n  background: blue;\n}\n\n.heightOfBlocks {\n  height: 100px;\n}\n"]}
